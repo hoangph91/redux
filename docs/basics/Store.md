@@ -1,4 +1,4 @@
-# Store
+# Store1
 
 In the previous sections, we defined the [actions](Actions.md) that represent the facts about “what happened” and the [reducers](Reducers.md) that update the state according to those actions.
 
